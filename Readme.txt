@@ -35,8 +35,4 @@ There are a variety of tools like boards that can be edited together in the worl
 important thing was to be able to share handwritten items in real time and edit them on the
 spot, so we focused on that point. Rather than single direction correspondence like onrequest conveyance, this application can without much of a stretch and very much impart
 progressively with any individual who has white paper, dark pen, and cell phone. 
-ScreenShot:
 
-
-Prof. Vrushali Bongirwar Dr. M.B. Chandak
-Project Guide HOD, CSE 
