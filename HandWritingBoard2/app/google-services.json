@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013504350423",
+    "firebase_url": "https://handwritingboard-f7d5e.firebaseio.com",
+    "project_id": "handwritingboard-f7d5e",
+    "storage_bucket": "handwritingboard-f7d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013504350423:android:e1dd8e436422fe48e93892",
+        "android_client_info": {
+          "package_name": "com.example.handwritingboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013504350423-sli5jjovof308rpmnlku38436tcfn9g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handwritingboard",
+            "certificate_hash": "1dbbe5d70d1cce1018d39d59cdd778dd002e6546"
+          }
+        },
+        {
+          "client_id": "1013504350423-u25dbkvoq8f6eutv6pclitt17c9u06g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1TMmeRx_zQjZeC9Q9vmcVzUnwyltiik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013504350423-u25dbkvoq8f6eutv6pclitt17c9u06g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

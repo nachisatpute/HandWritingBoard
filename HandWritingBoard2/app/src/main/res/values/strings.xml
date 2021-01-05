@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandWritingBoard</string>
+    <string name="title_activity_camera_on">CameraOn</string>
+</resources>

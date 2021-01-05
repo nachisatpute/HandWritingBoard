@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".CameraPreview"
+    android:id="@+id/parent">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="45dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/work"
+        android:background="@android:color/white" >
+    <com.wonderkiln.camerakit.CameraView
+        android:id="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+        <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+            android:background="@android:color/white"
+ />
+        <ImageView
+            android:id="@+id/im2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+ />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view"
+            android:layout_marginTop="300dp"
+            />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+    <Button
+        android:id="@+id/btConfirm"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:text="Confirm" />
+
+    <Button
+        android:id="@+id/btCapture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capture"
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>
